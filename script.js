@@ -14,4 +14,6 @@ alert("Donaciones próximamente 🚀");
 
 });
 
+let boton_apps = document.getElementById("boton_apps");
+
 });
